@@ -1,0 +1,11 @@
+.overlay-text {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    text-align: center;
+    padding: 20%;
+}
+
+.custom-filter {
+    filter: opacity(50%);
+}
