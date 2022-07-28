@@ -1,3 +1,6 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
 .overlay-text {
     position: absolute;
     z-index: 1;
@@ -8,4 +11,8 @@
 
 .custom-filter {
     filter: opacity(30%);
+}
+
+.logo-text {
+    font-family: 'Rye', cursive;
 }
